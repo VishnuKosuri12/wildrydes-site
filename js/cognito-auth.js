@@ -170,4 +170,4 @@ var WildRydes = window.WildRydes || {};
             }
         );
     }
-}(jQuery));
+}(jQuery);
